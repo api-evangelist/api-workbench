@@ -1,0 +1,36 @@
+{
+    "name": "API Workbench",
+    "description": "<p>API Workbench, a rich, full-featured integrated development environment (IDE) for designing, building, testing, documenting and sharing RESTful HTTP APIs. It supports both RAML 0.8 and the recently launched RAML 1.0. RAML makes it easy to manage the whole API lifecycle from design to sharing.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/API-Workbench.png",
+    "tags": [
+        "api tools",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/api-workbench\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "API Workbench",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/API-Workbench.png",
+            "humanURL": "http:\/\/apiworkbench.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/api-workbench-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/apiworkbench.com\/"
+        }
+    ]
+}
